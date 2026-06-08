@@ -1,4 +1,4 @@
-# Script de Automatización de Diagnóstico TI 🛠️
+# It-Support-Automation 🛠️
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey.svg)
