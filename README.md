@@ -42,5 +42,4 @@ Tener instalado Python 3.x en el equipo de soporte o en la máquina donde se rea
 3. **Ejecutar el script en la terminal (CMD, PowerShell o Bash):**
    ```bash
    python main.py
- 4. Abrir la aplicación:
-Abre tu navegador web e ingresa a la dirección local provista por Vite (usualmente http://localhost:5173).
+ 4. Revisar la terminal para ver el diagnóstico en tiempo real y abrir el archivo reporte_diagnostico.txt generado automáticamente en el mismo directorio.
