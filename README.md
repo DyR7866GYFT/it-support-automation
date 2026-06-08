@@ -1,4 +1,4 @@
-### 🐍 README para el Repositorio 3: `it-support-automation`
+### 🐍`it-support-automation`
 Crea el archivo `README.md` dentro de la carpeta local de tu script de Python antes de subirlo, o directamente en la interfaz web de ese repositorio, y pega este contenido:
 
 ```markdown
