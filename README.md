@@ -42,4 +42,4 @@ Tener instalado Python 3.x en el equipo de soporte o en la máquina donde se rea
 3. **Ejecutar el script en la terminal (CMD, PowerShell o Bash):**
    ```bash
    python main.py
- 4. Revisar la terminal para ver el diagnóstico en tiempo real y abrir el archivo (*reporte_diagnostico.txt*) generado automáticamente en el mismo directorio.
+ 4. Revisar la terminal para ver el diagnóstico en tiempo real y abrir el archivo (`reporte_diagnostico.txt`) generado automáticamente en el mismo directorio.
