@@ -39,6 +39,6 @@ Tener instalado Python 3.x en el equipo de soporte o en la máquina donde se rea
 2. **Navegar al directorio del proyecto:**
    ```bash
    cd it-support-automation
-3.**Ejecutar el script en la terminal (CMD, PowerShell o Bash):**
+3. **Ejecutar el script en la terminal (CMD, PowerShell o Bash):**
    ```bash
    python main.py
